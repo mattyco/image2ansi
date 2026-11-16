@@ -1,8 +1,8 @@
-# ImageToASCII
+# ImageToANSI
 
 A simple image-to-ANSI + ASCII art converter, written in Python.
 
-[![License](https://img.shields.io/github/license/mattyco/image2ascii)](LICENSE)
+[![License](https://img.shields.io/github/license/mattyco/image2ansi)](LICENSE)
 
 ## Program arguments.
 
