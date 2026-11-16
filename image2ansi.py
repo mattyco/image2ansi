@@ -106,7 +106,7 @@ def main():
     parser.add_argument("-i", "--image", required=True, type=str, help="Provide the path to the desired image file.")
     parser.add_argument("-w", "--width", type=int, default=80, help="Provide the desired width of the image.")
     parser.add_argument("-he", "--height", type=int, default=24, help="Provide the desired width of the image.")
-    parser.add_argument("-a", "--ascii", action="store_true", default=False, help="Choose wether you want a coloured image or not.")
+    parser.add_argument("-a", "--ascii", action="store_true", default=False, help="Choose wether you want ASCII rendering.")
 
     args = parser.parse_args()
 
